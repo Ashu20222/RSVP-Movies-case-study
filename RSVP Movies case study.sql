@@ -1,3 +1,6 @@
+--In this file some large script questions are solved with the help of google.
+
+
 USE imdb;
 
 -- Q1. Find the total number of rows in each table of the schema?
